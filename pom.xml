@@ -12,8 +12,8 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<mule.version>3.8.5</mule.version>
-		<uid>jarries</uid>
-		<password></password>
+		<uid>cjwl521</uid>
+		<password>891125cjwl</password>
 		<mule.tools.version>1.2</mule.tools.version>
 	</properties>
 	<build>
